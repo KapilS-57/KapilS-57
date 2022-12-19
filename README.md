@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
-<h3 align="center">A passionate frontend developer & a Unity3D Generalist from India</h3>
+<h3 align="center">A passionate <mark>frontend developer</mark> & a <mark>Unity3D Generalist</mark> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapils-57&label=Profile%20views&color=0e75b6&style=flat" alt="kapils-57" /> </p>
 
