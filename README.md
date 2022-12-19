@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kapil Sharma</h1>
-<h3 align="center">A passionate <mark style="background-color:#FFD4B2 ">frontend developer</mark> & a <marl>Unity3D Generalist</mark> from India</h3>
+<h3 align="center">A passionate <mark style="background-color:#FFD4B2">**frontend developer**</mark> & a <marl>**Unity3D Generalist**</mark> from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapils-57&label=Profile%20views&color=0e75b6&style=flat" alt="kapils-57" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kapils0298@gmail.com**
 
-- ⚡ Fun fact **Like to eat whatever i cook**
+- ⚡ Fun fact **Like to take unknown routes to explore**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
